@@ -5,12 +5,12 @@
       "entries": [
         {
           "type": "item",
-          "name": "minecraft:stone_axe",
+          "name": "minecraft:netherite_axe",
           "weight": 1
         },
         {
           "type": "item",
-          "name": "minecraft:wooden_axe",
+          "name": "minecraft:diamond_axe",
           "weight": 3
         }
       ]
@@ -20,12 +20,12 @@
       "entries": [
         {
           "type": "item",
-          "name": "minecraft:stone_pickaxe",
+          "name": "minecraft:netherite_pickaxe",
           "weight": 1
         },
         {
           "type": "item",
-          "name": "minecraft:wooden_pickaxe",
+          "name": "minecraft:diamond_pickaxe",
           "weight": 3
         }
       ]
@@ -35,14 +35,14 @@
       "entries": [
         {
           "type": "item",
-          "name": "minecraft:apple",
+          "name": "minecraft:enchanted_golden_apple",
           "weight": 1,
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 1,
-                "max": 2
+                "min": 64,
+                "max": 64
               }
             }
           ]
@@ -477,7 +477,19 @@
               }
             }
           ]
-        }
+        },
+        {
+          "type": "item",
+          "name": "minecraft:diamond",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 64,
+                "max": 64
+            }
+         }
       ]
     }
   ]
