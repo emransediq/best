@@ -3,7 +3,7 @@
     "header": {
         "description": "Better Chest Loot",
         "name": "Better Chest Loot BH",
-        "uuid": "ee649bcf-256c-4013-9068-6a802b89d756",
+        "uuid": "91e4c6d7-26e3-4166-b31d-0b5c5809a5d0",
         "version": [ 0, 0, 1 ],
         "min_engine_version": [ 1, 18, 0 ]
     },
