@@ -11,13 +11,7 @@
         {
             "description": "Better Chest Loot ",
             "type": "data",
-            "uuid": "fa6e90c8-c925-460f-8155-c8a60b753caa",
-            "version": [0, 0, 1]
-        }
-    ],
-    "dependencies": [
-        {
-            "uuid": "66c6e9a8-3093-462a-9c36-dbb052165822",
+            "uuid": "d118310c-73c2-4ead-94f1-8bc6279d2cb3",
             "version": [0, 0, 1]
         }
     ]
